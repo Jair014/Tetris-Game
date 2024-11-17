@@ -1,0 +1,16 @@
+﻿<Window x:Class="Tetris.PauseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="PauseWindow" Height="450" Width="800" ResizeMode="CanMinimize">
+    <Grid>
+        <Button x:Name="ResumeButton" Content="Resume" Width="207" Height="63" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,148,0,0" FontFamily="Rockwell Extra Bold" FontSize="36" Background="#FF28E05A" Click="ResumeButton_Click"/>
+        <Button x:Name="RestartButton" Content="Restart" Width="207" Height="63" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="426,148,155,0" FontFamily="Rockwell Extra Bold" FontSize="36" Background="#FFF94B4B" Click="RestartButton_Click"/>
+        <Label x:Name="GamePausedLabel" Content="Game Paused" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Rockwell Extra Bold"/>
+        <Button x:Name="HomeButton" Content="Home" Width="207" Height="63" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,273,0,0" FontFamily="Rockwell Extra Bold" FontSize="36" Background="#FF509CF7" Click="HomeButton_Click" RenderTransformOrigin="0.365,0.545"/>
+
+    </Grid>
+</Window>

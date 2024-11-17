@@ -1,0 +1,1366 @@
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameWindow.baml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameWindow.baml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\CommandLine.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Iced.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Memory.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\CommandLine.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Iced.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Memory.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\CommandLine.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Iced.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Memory.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\CommandLine.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Iced.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Memory.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\24709537\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\CommandLine.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Iced.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Memory.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\CommandLine.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Iced.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Memory.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\GameWindow.baml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sydney\Desktop\Final\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Tetris.exe
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Tetris.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\CommandLine.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Iced.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Memory.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\CommandLine.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Iced.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Memory.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\App.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\GameWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\MainWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.exe
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 needs stylecopping\Tetris\obj\Debug\Tetris.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Tetris.exe
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Tetris.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\CommandLine.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Iced.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Memory.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\CommandLine.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Iced.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Memory.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\App.g.cs
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\GameWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\MainWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.exe
+C:\Users\nicka\OneDrive - Northeast Wisconsin Technical College\C# Part 2\Tetris 11-30-22 LP5.2 Stylecopped\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\CommandLine.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Iced.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Memory.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\CommandLine.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Iced.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Memory.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\App.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\GameWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris 12-02-22 (Leveling Added)\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\CommandLine.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Iced.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Memory.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\CommandLine.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Iced.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Memory.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\App.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\GameWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\App.g.cs
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\CommandLine.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Iced.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Memory.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\CommandLine.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Iced.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Memory.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\GameWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\OneDrive - Northeast Wisconsin Technical College\C#\Final\Tetris Part 3 - Test\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.exe
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.pdb
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\CommandLine.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Iced.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Memory.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\CommandLine.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Iced.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Memory.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\App.g.cs
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\MainWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.exe
+C:\Users\jairg\OneDrive\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.pdb
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\msdia140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\msvcp140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\x86\vcruntime140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\msdia140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\msvcp140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\msdia140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\msvcp140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\TraceReloggerLib.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Dia2Lib.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\OSExtensions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.exe
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Tetris.pdb
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\CommandLine.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Iced.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Perfolizer.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Buffers.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Memory.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\CommandLine.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Iced.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Buffers.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.CodeDom.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Memory.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\AboutWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\PauseWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\App.g.cs
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\AboutWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameOverWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\GameWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\MainWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\PauseWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\SettingsWindow.baml
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.exe
+C:\Users\jairg\OneDrive\School\Semester 2\C#_Part2\groupTetris\Tetris Part 3\Tetris Part 3\Tetris\obj\Debug\Tetris.pdb

@@ -1,0 +1,269 @@
+﻿<Window x:Class="Tetris.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="743" Width="800"
+        KeyDown="Window_KeyDown" ResizeMode="CanMinimize">
+    <Grid x:Name="TetrisBoard" Margin="100,10,310,2" Background="#FF8BD0FF" Width="350">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="26*"/>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="PauseButton" Content="Pause (esc)" HorizontalAlignment="Left" Margin="65,9,-285,0" Grid.Row="19" VerticalAlignment="Top" Width="255" Height="63" Grid.RowSpan="3" Grid.Column="10" FontFamily="Rockwell Extra Bold" FontSize="36" Background="#FFF94B4B" Click="PauseButton_Click"/>
+        <Rectangle x:Name="Cell1" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell2" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell3" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell4" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell5" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell6" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell7" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell8" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell9" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell10" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell11" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="2"/>
+        <Rectangle x:Name="Cell12" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="2"/>
+        <Rectangle x:Name="Cell13" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="2"/>
+        <Rectangle x:Name="Cell14" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="2"/>
+        <Rectangle x:Name="Cell15" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="2"/>
+        <Rectangle x:Name="Cell16" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="2"/>
+        <Rectangle x:Name="Cell17" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="2"/>
+        <Rectangle x:Name="Cell18" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell19" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="2"/>
+        <Rectangle x:Name="Cell20" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="2"/>
+        <Rectangle x:Name="Cell21" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell22" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell23" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell24" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell25" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell26" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell27" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell28" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="3" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell29" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell30" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="3" Grid.RowSpan="2"/>
+        <Rectangle x:Name="Cell31" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="5"/>
+        <Rectangle x:Name="Cell32" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="5"/>
+        <Rectangle x:Name="Cell33" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="5"/>
+        <Rectangle x:Name="Cell34" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="5"/>
+        <Rectangle x:Name="Cell35" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="5"/>
+        <Rectangle x:Name="Cell36" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="5"/>
+        <Rectangle x:Name="Cell37" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="5"/>
+        <Rectangle x:Name="Cell38" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell39" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="5"/>
+        <Rectangle x:Name="Cell40" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="5"/>
+        <Rectangle x:Name="Cell41" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="6"/>
+        <Rectangle x:Name="Cell42" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="6"/>
+        <Rectangle x:Name="Cell43" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="6"/>
+        <Rectangle x:Name="Cell44" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="6"/>
+        <Rectangle x:Name="Cell45" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="6"/>
+        <Rectangle x:Name="Cell46" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="6"/>
+        <Rectangle x:Name="Cell47" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="6"/>
+        <Rectangle x:Name="Cell48" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="6" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell49" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="6"/>
+        <Rectangle x:Name="Cell50" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="6"/>
+        <Rectangle x:Name="Cell51" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="7"/>
+        <Rectangle x:Name="Cell52" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="7"/>
+        <Rectangle x:Name="Cell53" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="7"/>
+        <Rectangle x:Name="Cell54" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="7"/>
+        <Rectangle x:Name="Cell55" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="7"/>
+        <Rectangle x:Name="Cell56" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="7"/>
+        <Rectangle x:Name="Cell57" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="7"/>
+        <Rectangle x:Name="Cell58" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="7" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell59" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="7"/>
+        <Rectangle x:Name="Cell60" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="7"/>
+        <Rectangle x:Name="Cell61" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="8"/>
+        <Rectangle x:Name="Cell62" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="8"/>
+        <Rectangle x:Name="Cell63" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="8"/>
+        <Rectangle x:Name="Cell64" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="8"/>
+        <Rectangle x:Name="Cell65" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="8"/>
+        <Rectangle x:Name="Cell66" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="8"/>
+        <Rectangle x:Name="Cell67" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="8"/>
+        <Rectangle x:Name="Cell68" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="8" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell69" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="8"/>
+        <Rectangle x:Name="Cell70" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="8"/>
+        <Rectangle x:Name="Cell71" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="9"/>
+        <Rectangle x:Name="Cell72" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="9"/>
+        <Rectangle x:Name="Cell73" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="9"/>
+        <Rectangle x:Name="Cell74" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="9"/>
+        <Rectangle x:Name="Cell75" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="9"/>
+        <Rectangle x:Name="Cell76" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="9"/>
+        <Rectangle x:Name="Cell77" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="9"/>
+        <Rectangle x:Name="Cell78" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="9" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell79" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="9"/>
+        <Rectangle x:Name="Cell80" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="9"/>
+        <Rectangle x:Name="Cell81" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="10"/>
+        <Rectangle x:Name="Cell82" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="10"/>
+        <Rectangle x:Name="Cell83" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="10"/>
+        <Rectangle x:Name="Cell84" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="10"/>
+        <Rectangle x:Name="Cell85" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="10"/>
+        <Rectangle x:Name="Cell86" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="10"/>
+        <Rectangle x:Name="Cell87" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="10"/>
+        <Rectangle x:Name="Cell88" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="10" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell89" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="10"/>
+        <Rectangle x:Name="Cell90" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="10"/>
+        <Rectangle x:Name="Cell91" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="11"/>
+        <Rectangle x:Name="Cell92" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="11"/>
+        <Rectangle x:Name="Cell93" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="11"/>
+        <Rectangle x:Name="Cell94" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="11"/>
+        <Rectangle x:Name="Cell95" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="11"/>
+        <Rectangle x:Name="Cell96" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="11"/>
+        <Rectangle x:Name="Cell97" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="11"/>
+        <Rectangle x:Name="Cell98" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="11" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell99" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="11"/>
+        <Rectangle x:Name="Cell100" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="11"/>
+        <Rectangle x:Name="Cell101" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="12"/>
+        <Rectangle x:Name="Cell102" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="12"/>
+        <Rectangle x:Name="Cell103" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="12"/>
+        <Rectangle x:Name="Cell104" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="12"/>
+        <Rectangle x:Name="Cell105" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="12"/>
+        <Rectangle x:Name="Cell106" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="12"/>
+        <Rectangle x:Name="Cell107" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="12"/>
+        <Rectangle x:Name="Cell108" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="12" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell109" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="12"/>
+        <Rectangle x:Name="Cell110" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="12"/>
+        <Rectangle x:Name="Cell111" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="13"/>
+        <Rectangle x:Name="Cell112" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="13"/>
+        <Rectangle x:Name="Cell113" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="13"/>
+        <Rectangle x:Name="Cell114" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="13"/>
+        <Rectangle x:Name="Cell115" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="13"/>
+        <Rectangle x:Name="Cell116" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="13"/>
+        <Rectangle x:Name="Cell117" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="13"/>
+        <Rectangle x:Name="Cell118" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="13" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell119" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="13"/>
+        <Rectangle x:Name="Cell120" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="13"/>
+        <Rectangle x:Name="Cell121" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="14"/>
+        <Rectangle x:Name="Cell122" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="14"/>
+        <Rectangle x:Name="Cell123" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="14"/>
+        <Rectangle x:Name="Cell124" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="14"/>
+        <Rectangle x:Name="Cell125" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="14"/>
+        <Rectangle x:Name="Cell126" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="14"/>
+        <Rectangle x:Name="Cell127" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="14"/>
+        <Rectangle x:Name="Cell128" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="14" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell129" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="14"/>
+        <Rectangle x:Name="Cell130" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="14"/>
+        <Rectangle x:Name="Cell131" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="15"/>
+        <Rectangle x:Name="Cell132" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="15"/>
+        <Rectangle x:Name="Cell133" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="15"/>
+        <Rectangle x:Name="Cell134" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="15"/>
+        <Rectangle x:Name="Cell135" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="15"/>
+        <Rectangle x:Name="Cell136" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="15"/>
+        <Rectangle x:Name="Cell137" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="15"/>
+        <Rectangle x:Name="Cell138" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="15" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell139" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="15"/>
+        <Rectangle x:Name="Cell140" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="15"/>
+        <Rectangle x:Name="Cell141" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="16"/>
+        <Rectangle x:Name="Cell142" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="16"/>
+        <Rectangle x:Name="Cell143" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="16"/>
+        <Rectangle x:Name="Cell144" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="16"/>
+        <Rectangle x:Name="Cell145" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="16"/>
+        <Rectangle x:Name="Cell146" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="16"/>
+        <Rectangle x:Name="Cell147" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="16"/>
+        <Rectangle x:Name="Cell148" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="16" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell149" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="16"/>
+        <Rectangle x:Name="Cell150" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="16"/>
+        <Rectangle x:Name="Cell151" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="17"/>
+        <Rectangle x:Name="Cell152" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="17"/>
+        <Rectangle x:Name="Cell153" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="17"/>
+        <Rectangle x:Name="Cell154" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="17"/>
+        <Rectangle x:Name="Cell155" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="17"/>
+        <Rectangle x:Name="Cell156" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="17"/>
+        <Rectangle x:Name="Cell157" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="17"/>
+        <Rectangle x:Name="Cell158" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="17" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell159" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="17"/>
+        <Rectangle x:Name="Cell160" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="17"/>
+        <Rectangle x:Name="Cell161" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="18"/>
+        <Rectangle x:Name="Cell162" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="18"/>
+        <Rectangle x:Name="Cell163" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="18"/>
+        <Rectangle x:Name="Cell164" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="18"/>
+        <Rectangle x:Name="Cell165" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="18"/>
+        <Rectangle x:Name="Cell166" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="18"/>
+        <Rectangle x:Name="Cell167" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="18"/>
+        <Rectangle x:Name="Cell168" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="18" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell169" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="18"/>
+        <Rectangle x:Name="Cell170" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="18"/>
+        <Rectangle x:Name="Cell171" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="19"/>
+        <Rectangle x:Name="Cell172" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="19"/>
+        <Rectangle x:Name="Cell173" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="19"/>
+        <Rectangle x:Name="Cell174" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="19"/>
+        <Rectangle x:Name="Cell175" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="19"/>
+        <Rectangle x:Name="Cell176" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="19"/>
+        <Rectangle x:Name="Cell177" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="19"/>
+        <Rectangle x:Name="Cell178" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="19" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell179" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="19"/>
+        <Rectangle x:Name="Cell180" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="19"/>
+        <Rectangle x:Name="Cell181" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="20"/>
+        <Rectangle x:Name="Cell182" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="20"/>
+        <Rectangle x:Name="Cell183" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="20"/>
+        <Rectangle x:Name="Cell184" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="20"/>
+        <Rectangle x:Name="Cell185" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="20"/>
+        <Rectangle x:Name="Cell186" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="20"/>
+        <Rectangle x:Name="Cell187" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="20"/>
+        <Rectangle x:Name="Cell188" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="20" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell189" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="20"/>
+        <Rectangle x:Name="Cell190" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="20"/>
+        <Rectangle x:Name="Cell191" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="21"/>
+        <Rectangle x:Name="Cell192" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="1" Grid.Row="21"/>
+        <Rectangle x:Name="Cell193" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="2" Grid.Row="21"/>
+        <Rectangle x:Name="Cell194" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="3" Grid.Row="21"/>
+        <Rectangle x:Name="Cell195" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="4" Grid.Row="21"/>
+        <Rectangle x:Name="Cell196" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="5" Grid.Row="21"/>
+        <Rectangle x:Name="Cell197" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="6" Grid.Row="21"/>
+        <Rectangle x:Name="Cell198" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="7" Grid.Row="21" Grid.ColumnSpan="2"/>
+        <Rectangle x:Name="Cell199" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="9" Grid.Row="21"/>
+        <Rectangle x:Name="Cell200" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="21"/>
+        <Rectangle x:Name="DisplayCell1" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.RowSpan="2" Grid.Column="10" Margin="105,15,-105,0" Grid.Row="2"/>
+        <Rectangle x:Name="DisplayCell2" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.RowSpan="2" Margin="140,15,-140,0" Grid.Row="2"/>
+        <Rectangle x:Name="DisplayCell3" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.RowSpan="2" Margin="175,15,-175,0" Grid.Row="2"/>
+        <Rectangle x:Name="DisplayCell4" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="3" Grid.Column="10" Margin="105,15,-105,0" Grid.RowSpan="3"/>
+        <Rectangle x:Name="DisplayCell5" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="3" Margin="140,15,-140,0" Grid.RowSpan="3"/>
+        <Rectangle x:Name="DisplayCell6" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="3" Margin="175,15,-175,0" Grid.RowSpan="3"/>
+        <Rectangle x:Name="DisplayCell7" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="5" Grid.Column="10" Margin="105,15,-105,0" Grid.RowSpan="2"/>
+        <Rectangle x:Name="DisplayCell8" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="5" Margin="140,15,-140,0" Grid.RowSpan="2"/>
+        <Rectangle x:Name="DisplayCell9" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="5" Margin="175,15,-175,0" Grid.RowSpan="2"/>
+        <Rectangle x:Name="DisplayCell10" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Row="6" Grid.Column="10" Margin="105,15,-105,0" Grid.RowSpan="2"/>
+        <Rectangle x:Name="DisplayCell11" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="6" Margin="140,15,-140,0" Grid.RowSpan="2"/>
+        <Rectangle x:Name="DisplayCell12" Fill="White" HorizontalAlignment="Left" Height="35" Stroke="Black" VerticalAlignment="Top" Width="35" Grid.Column="10" Grid.Row="6" Margin="175,15,-175,0" Grid.RowSpan="2"/>
+        <Label x:Name="NextPieceLabel" Content="Next Piece" Grid.Column="10" HorizontalAlignment="Left" Margin="74,0,-238,0" VerticalAlignment="Top" Width="199" Grid.RowSpan="3" FontSize="30" FontFamily="Segoe UI Black"/>
+        <Label x:Name="ScoreTextBox" Content="" Grid.Column="10" HorizontalAlignment="Left" Margin="120,0,-253,0" Grid.Row="11" VerticalAlignment="Top" Width="168" Height="35" BorderThickness="2" Background="#FFE4E4E4" BorderBrush="Black" ClipToBounds="True" FontFamily="Segoe UI Black" FontSize="16"/>
+        <Label x:Name="ScoreLabel" Content="Score:" Grid.Column="10" HorizontalAlignment="Left" Margin="155,21,-253,0" Grid.Row="9" VerticalAlignment="Top" Width="133" Grid.RowSpan="2" FontSize="30" FontFamily="Segoe UI Black"/>
+        <Label x:Name="LinesClearedTextBox" Content="" Grid.Column="10" HorizontalAlignment="Left" Margin="120,0,-253,0" Grid.Row="14" Width="168" BorderThickness="2" Background="#FFE4E4E4" BorderBrush="Black" ClipToBounds="True" FontFamily="Segoe UI Black" FontSize="16" Height="35" VerticalAlignment="Top"/>
+        <Label x:Name="LinesClearedLabel" Content="Lines Cleared:" Grid.Column="10" HorizontalAlignment="Left" Margin="95,21,-312,0" Grid.Row="12" VerticalAlignment="Top" Width="252" Grid.RowSpan="2" FontSize="30" FontFamily="Segoe UI Black"/>
+        <Label x:Name="LevelTextBox" Content="0" Grid.Column="10" HorizontalAlignment="Left" Margin="120,0,-253,0" Grid.Row="17" Width="168" BorderThickness="2" Background="#FFE4E4E4" BorderBrush="Black" ClipToBounds="True" FontFamily="Segoe UI Black" FontSize="16" Height="35" VerticalAlignment="Top"/>
+        <Label x:Name="LevelLabel" Content="Level:" Grid.Column="10" HorizontalAlignment="Left" Margin="155,21,-372,0" Grid.Row="15" VerticalAlignment="Top" Width="252" Grid.RowSpan="2" FontSize="30" FontFamily="Segoe UI Black"/>
+    </Grid>
+</Window>

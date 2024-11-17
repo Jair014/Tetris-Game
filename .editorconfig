@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8034: Unable to load Analyzer assembly C:\Users\24709537\Desktop\Tetris\packages\Microsoft.CodeAnalysis.Analyzers.2.6.2\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll : Could not load file or assembly 'file:///C:\Users\24709537\Desktop\Tetris\packages\Microsoft.CodeAnalysis.Analyzers.2.6.2\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll' or one of its dependencies. Operation is not supported. (Exception from HRESULT: 0x80131515)
+dotnet_diagnostic.CS8034.severity = silent
